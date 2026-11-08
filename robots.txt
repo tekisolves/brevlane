@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brevlane.github.io/sitemap.xml
